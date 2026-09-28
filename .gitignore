@@ -31,6 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-src/main/resources/mcp-servers.json
 src/main/resources/application.properties
 /target/
+.bashrc

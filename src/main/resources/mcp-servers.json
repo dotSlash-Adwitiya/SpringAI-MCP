@@ -1,5 +1,12 @@
 {
   "mcpServers": {
+    "spring-ai-mcp" : {
+      "command" : "/usr/bin/java",
+      "args" : [
+        "-jar",
+        "/media/adwitiya/Development + DSA/Spring AI MCP/mcpserverstdio/target/mcpserverstdio-0.0.1-SNAPSHOT.jar"
+      ]
+    },
     "filesystem": {
       "command": "/home/adwitiya/.nvm/versions/node/v24.21.0/bin/mcp-server-filesystem",
       "args": [
